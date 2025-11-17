@@ -55,11 +55,11 @@
 
 ---
 
-### 📅 **2025-11-12**
+### 📅 **2025-11-16**
 
 | **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
 |:-----------|:-----------------|:-------------|:---------------|
-| **Recurrent Neural Networks (RNNs) & LSTMs** | Sequential Data, Temporal Dependencies, Gradient Flow, Memory Cells | RNNs process sequential information, while LSTMs overcome vanishing gradients by introducing gates that control information flow for long-term memory. | [📘 RNN_LSTM.pdf](Docs/RNN_LSTM.pdf) |
+| **Machine Learning - Data Preprocessing** | Feature Scaling | A comparative study showing how feature scaling impacts machine learning model performance. | [📘 Feature_scaling.pdf](Docs/featurescaling.pdf) |
 
 ---
 

@@ -63,11 +63,11 @@
 
 ---
 
-### 📅 **2025-11-13**
+### 📅 **2025-11-18**
 
 | **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
 |:-----------|:-----------------|:-------------|:---------------|
-| **Transformers & Attention Mechanisms** | Self-Attention, Multi-Head Attention, Positional Encoding | Transformers revolutionize sequence modeling by replacing recurrence with attention — allowing global context understanding and parallel computation. | [📘 Transformers.pdf](Docs/Transformers_Attention.pdf) |
+| **Mask R-CNN for Instance Segmentation** | Region Proposal Network (RPN), RoIAlign, Segmentation Mask Branch | Mask R-CNN extends Faster R-CNN by adding a third branch to predict a pixel-level segmentation mask for each object instance, enabling precise object localization and segmentation. | [📘 MaskCNN.pdf](Docs/maskcnn.pdf) |
 
 ---
 

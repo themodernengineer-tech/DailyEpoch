@@ -71,11 +71,12 @@
 
 ---
 
-### 📅 **2025-11-14**
+### 📅 **2025-11-19**
 
 | **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
 |:-----------|:-----------------|:-------------|:---------------|
-| **Large Language Models (LLMs)** | Context Windows, Tokenization, Emergent Behavior, Pretraining | LLMs leverage massive transformer architectures to learn language representations and exhibit emergent reasoning from large-scale data. | [📘 LLMs_Fundamentals.pdf](Docs/LLMs_Fundamentals.pdf) |
+| **U-Net (Image Segmentation)** | Encoder–Decoder Architecture, Skip Connections, Convolutional Blocks, Pixel-wise Prediction | U-Net uses a symmetric encoder–decoder structure with skip connections to capture both spatial detail and contextual information, enabling precise pixel-level segmentation in medical and general imaging tasks. | [📘 UNet_Fundamentals.pdf](Docs/UNet_Fundamentals.pdf) |
+
 
 ---
 

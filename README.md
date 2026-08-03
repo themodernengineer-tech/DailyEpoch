@@ -8,116 +8,316 @@
   />
 </p>
 
+
 <h1 align="center">🗓️ DailyEpoch</h1>
-<p align="center">A daily research journal capturing my evolving journey through Machine Learning, Deep Learning, Artificial Intelligence, Python, and Large Language Models — one gradient step at a time.</p>
 
 <p align="center">
-  <!-- Line 1: Academic / Research Topics -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-Research-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Deep%20Learning-Architectures-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Theory%20%7C%20Practice-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-Prompting%20%7C%20Fine--Tuning-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mathematics-Linear%20Algebra%20%7C%20Calculus-yellow?style=for-the-badge">
+<b>Building one day at a time toward becoming an AI Platform Engineer.</b>
 </p>
 
 <p align="center">
-  <!-- Line 2: Tools & Frameworks -->
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+DailyEpoch is my public engineering journal documenting everything I learn while preparing for a career in <b>AI Platform Engineering</b>, <b>AI Infrastructure</b>, and <b>Forward Deployed Engineering</b>. This repository captures my daily progress across Artificial Intelligence, Machine Learning, Linux, Cloud Computing, Kubernetes, DevOps, MLOps, and production AI systems through structured notes, experiments, architecture diagrams, code, and hands-on projects.
 </p>
 
-
----
-## 🧭 Daily Logs — AI Learning Chronicle  
-> *“Recording daily gradients of intelligence and discovery.”*
-
 ---
 
-### 📅 **2025-11-09**
+<p align="center">
 
-| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
-|:-----------|:-----------------|:-------------|:---------------|
-| **Generative Adversarial Networks (GANs)** | Adversarial Learning, Generator–Discriminator, Minimax Optimization, Latent Space | GANs consist of two competing networks — a Generator that creates data and a Discriminator that distinguishes real from fake. Through adversarial training, both improve iteratively, enabling realistic data synthesis. | [📘 GAN Notes (PDF)](Docs/GAN.pdf) |
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-red?style=for-the-badge">
 
----
+<img src="https://img.shields.io/badge/Machine%20Learning-Algorithms-blue?style=for-the-badge">
 
-### 📅 **2025-11-11**
+<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-orange?style=for-the-badge">
 
-| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
-|:-----------|:-----------------|:-------------|:---------------|
-| **Convolutional Neural Networks (CNNs)** | Convolution, Padding, Pooling, Feature Maps, Spatial Hierarchies | CNNs extract hierarchical features from images, preserve details through padding, and enhance efficiency via pooling — foundational to modern computer vision. | [📘 CNN Overview](Docs/CNN.pdf) · [📘 Padding](Docs/padding.pdf) · [📘 Pooling Layers](Docs/Poolinglayers.pdf) |
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=for-the-badge">
 
----
+<img src="https://img.shields.io/badge/MLOps-Production-green?style=for-the-badge">
 
-### 📅 **2025-11-16**
+</p>
 
-| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
-|:-----------|:-----------------|:-------------|:---------------|
-| **Machine Learning - Data Preprocessing** | Feature Scaling | A comparative study showing how feature scaling impacts machine learning model performance. | [📘 Feature_scaling.pdf](Docs/featurescaling.pdf) |
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Linux-System%20Administration-black?style=for-the-badge&logo=linux">
 
-### 📅 **2025-11-18**
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
-|:-----------|:-----------------|:-------------|:---------------|
-| **Mask R-CNN for Instance Segmentation** | Region Proposal Network (RPN), RoIAlign, Segmentation Mask Branch | Mask R-CNN extends Faster R-CNN by adding a third branch to predict a pixel-level segmentation mask for each object instance, enabling precise object localization and segmentation. | [📘 MaskCNN.pdf](Docs/maskcnn.pdf) |
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
----
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-### 📅 **2025-11-19**
+<img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
 
-| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
-|:-----------|:-----------------|:-------------|:---------------|
-| **U-Net (Image Segmentation)** | Encoder–Decoder Architecture, Skip Connections, Convolutional Blocks, Pixel-wise Prediction | U-Net uses a symmetric encoder–decoder structure with skip connections to capture both spatial detail and contextual information, enabling precise pixel-level segmentation in medical and general imaging tasks. | [📘 UNet_Fundamentals.pdf](Docs/UNet_Fundamentals.pdf) |
+</p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git">
+
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python">
+
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi">
+
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch">
+
+</p>
 
 ---
 
-### 📅 **2025-11-15**
+# 🎯 Mission
 
-| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
-|:-----------|:-----------------|:-------------|:---------------|
-| **Natural Language Processing (NLP) Basics** | Tokenization, Lemmatization, Text Vectorization | NLP enables machines to interpret language through preprocessing, feature extraction, and semantic representation. | [📘 NLP_Basics.pdf](Docs/NLP_Basics.pdf) |
+DailyEpoch is more than a collection of notes—it's my engineering logbook.
 
----
+I'm documenting my journey from AI fundamentals to designing, deploying, and operating production-ready AI systems.
 
-### 📅 **2025-11-16**
+Every concept I study is accompanied by practical understanding through notes, experiments, architecture diagrams, code, cloud services, and projects.
 
-| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
-|:-----------|:-----------------|:-------------|:---------------|
-| **Word Embeddings (Word2Vec & GloVe)** | Distributed Representation, Context Windows, Semantic Similarity | Word embeddings capture semantic meaning by mapping words into dense vector spaces, enabling contextual understanding for downstream NLP tasks. | [📘 Word2Vec.pdf](Docs/Word2Vec.pdf) |
+My goal is to build the knowledge and engineering mindset required for roles such as:
 
----
-
-### 📅 **2025-11-17**
-
-| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
-|:-----------|:-----------------|:-------------|:---------------|
-| **Dimensionality Reduction (PCA, t-SNE)** | Variance, Eigenvectors, Manifold Learning | Dimensionality reduction simplifies complex data while preserving structure, aiding visualization and feature compression. | [📘 Dimensionality_Reduction.pdf](Docs/Dimensionality_Reduction.pdf) |
+- AI Platform Engineer
+- AI Infrastructure Engineer
+- Forward Deployed Engineer
+- MLOps Engineer
+- Machine Learning Engineer
 
 ---
 
-### 📅 **2025-11-18**
+# 🚀 Learning Philosophy
 
-| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
-|:-----------|:-----------------|:-------------|:---------------|
-| **Feature Engineering & Selection** | Normalization, Encoding, Feature Importance | Proper feature design improves model interpretability and performance by emphasizing relevant variables. | [📘 Feature_Engineering.pdf](Docs/Feature_Engineering.pdf) |
+I believe that consistent progress compounds over time.
+
+Rather than simply consuming tutorials, I document every learning session to reinforce understanding and create a public record of my growth.
+
+For every topic I learn, I try to answer five questions:
+
+- What is it?
+- Why does it matter?
+- How does it work?
+- Where is it used in production?
+- What did I build or experiment with?
+
+This repository follows the philosophy of **Learning in Public**, where every day adds another small step toward mastering AI systems and cloud infrastructure.
 
 ---
 
-### 📅 **2025-11-19**
+# 🧠 Learning Domains
 
-| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
-|:-----------|:-----------------|:-------------|:---------------|
-| **Regression Models (Linear & Logistic)** | Loss Minimization, Sigmoid, Gradient Descent | Regression models establish statistical relationships; logistic regression extends this for binary classification through non-linear mapping. | [📘 Regression_Models.pdf](Docs/Regression_Models.pdf) |
+## 🤖 Artificial Intelligence
 
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Computer Vision
+- Natural Language Processing
+- Transformers
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+
+---
+
+## ☁️ AI Infrastructure
+
+- Linux
+- Docker
+- Kubernetes
+- Container Orchestration
+- GPUs
+- CUDA
+- Distributed Systems
+- Distributed Training
+- Networking
+
+---
+
+## ☁️ Cloud Computing
+
+- Amazon Web Services (AWS)
+- EC2
+- ECS
+- EKS
+- Fargate
+- IAM
+- S3
+- VPC
+- Load Balancers
+
+---
+
+## ⚙️ DevOps
+
+- Git
+- GitHub
+- CI/CD
+- GitHub Actions
+- Terraform
+- Infrastructure as Code
+- Helm
+- ArgoCD
+- Prometheus
+- Grafana
+
+---
+
+## 📈 MLOps
+
+- Model Deployment
+- ML Pipelines
+- MLflow
+- Kubeflow
+- Airflow
+- Feature Stores
+- Model Registry
+- Monitoring
+- Experiment Tracking
+
+---
+
+## 💻 Programming
+
+- Python
+- Bash
+- SQL
+- FastAPI
+- APIs
+- Automation
+
+---
+
+# 📚 Repository Structure
+
+```
+DailyEpoch/
+
+│
+├── Docs/
+│     PDF Notes
+│
+├── Images/
+│     Architecture diagrams
+│
+├── Code/
+│     Hands-on implementations
+│
+└── README.md
+```
+
+---
+
+# 📒 Engineering Logbook
+
+> **Building AI systems from algorithms to production infrastructure—one day at a time.**
+
+Each daily entry includes:
+
+- 📅 Date
+- 🏷 Domain
+- 📖 Topic
+- 💡 Key Concepts
+- 🧠 Summary
+- 🌍 Production Relevance
+- 📄 Notes
+- 💻 Code
+- 🔗 Resources
+
+---
+
+| **#** | **Date** | **Domain** | **Topic** | **Production Relevance** | **Key Takeaways** | **Artifacts** |
+|:----:|:---------|:-----------|:----------|:--------------------------|:------------------|:--------------|
+| 001 | 2026-08-03 | 🐳 Containers | Containers | Package applications with dependencies for reproducible deployments. | Fundamentals, isolation, portability, scalability. | 📘 Notes |
+| 002 | 2026-08-03 | ☁️ Cloud | Container Orchestration | Automates deployment, scaling, networking, and recovery of containerized workloads. | Why orchestration is critical for production systems. | 📘 Notes |
+| 003 | 2026-08-03 | ☁️ AWS | Amazon ECS | Managed container orchestration on AWS. | ECS architecture, tasks, services, clusters. | 📘 Notes |
+| 004 | 2026-08-03 | ☁️ AWS | Amazon EKS | Managed Kubernetes service. | Kubernetes on AWS and production use cases. | 📘 Notes |
+| 005 | 2026-08-03 | ☁️ AWS | AWS Fargate | Serverless compute for containers. | Infrastructure-free container deployments. | 📘 Notes |
+
+---
+
+# 🚀 Roadmap Progress
+
+## Artificial Intelligence
+
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] CNNs
+- [ ] RNNs
+- [ ] Transformers
+- [ ] LLMs
+- [ ] RAG
+- [ ] AI Agents
+
+---
+
+## AI Infrastructure
+
+- [ ] Linux
+- [ ] Docker
+- [ ] Docker Compose
+- [ ] Kubernetes
+- [ ] Helm
+- [ ] GPUs
+- [ ] CUDA
+
+---
+
+## Cloud
+
+- [ ] AWS EC2
+- [ ] AWS ECS
+- [ ] AWS EKS
+- [ ] AWS Fargate
+- [ ] IAM
+- [ ] VPC
+- [ ] Load Balancing
+
+---
+
+## DevOps
+
+- [ ] Git
+- [ ] GitHub Actions
+- [ ] Terraform
+- [ ] CI/CD
+- [ ] Prometheus
+- [ ] Grafana
+
+---
+
+## MLOps
+
+- [ ] MLflow
+- [ ] Kubeflow
+- [ ] Airflow
+- [ ] Model Deployment
+- [ ] Monitoring
+
+---
+
+## Projects
+
+- [ ] Containerized AI Application
+- [ ] Kubernetes Deployment
+- [ ] RAG Pipeline
+- [ ] AI Platform
+- [ ] End-to-End MLOps Pipeline
+
+---
+
+# 🌱 Current Goal
+
+I'm currently focused on building a strong foundation in AI, cloud infrastructure, containerization, Kubernetes, DevOps, and MLOps to become an engineer capable of developing, deploying, and operating production-ready AI systems.
+
+---
+
+# 🤝 Connect
+
+If you're also learning AI, Cloud, Kubernetes, DevOps, or MLOps, feel free to connect, share feedback, or discuss ideas.
+
+Let's build, learn, and grow together.
+
+---
+
+> **"Every commit is a lesson. Every note is a building block. Every day is another step toward engineering intelligent systems at scale."**
 ---
 
 > 🧩 *“Every day logged is another gradient in the space of understanding.”*
